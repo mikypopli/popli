@@ -1,0 +1,9 @@
+public class multiply
+{
+public static void main(string{} args) 
+{
+int a=8,b=9,c;
+c=a*b;
+system.out.println("product oftwo number");
+system.out.print(c);
+}
